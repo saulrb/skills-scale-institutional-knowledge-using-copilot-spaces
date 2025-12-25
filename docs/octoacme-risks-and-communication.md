@@ -40,3 +40,5 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+- For production incidents, Operations/DevOps coordinates response and rollback
+- For quality issues blocking release, escalate through QA Lead
