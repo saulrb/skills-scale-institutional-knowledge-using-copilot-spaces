@@ -15,6 +15,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Include issue link and acceptance criteria in PR description
   - Run automated tests and linting in CI before requesting review
   - Require at least one approval before merging (or team-defined policy)
+  - UX Designer reviews UI/UX changes for design consistency
+  - QA Lead reviews test coverage and quality criteria
+  - Technical Writer updates documentation as needed
 
 ## Quality & Testing
 - Unit tests for new logic
@@ -22,6 +25,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- QA Lead sign-off on test coverage and quality gates
+- UX Designer validation for user-facing features
+- Accessibility testing for UI components
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +44,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] QA testing integrated into workflow
+- [ ] Documentation updates tracked and completed
+- [ ] UX design reviews scheduled for UI changes
+- [ ] DevOps monitoring and alerts configured
